@@ -67,7 +67,6 @@ WonderLABOsakaのFreeWiFiに接続しますので社用PCをお持込の場合�
 
 これからOSを導入されるかたは、「Raspbian Jessie with desktop」
 https://www.raspberrypi.org/downloads/raspbian/
-2017-07-05版<br>
 をオススメします。<br>
 https://github.com/WLO-RaspiClub/20170608_MyFirstInstall/blob/master/FAQ.md#microsdを作成するときに必要なもの
 などを参考に各自ご準備ください。
