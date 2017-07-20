@@ -2,7 +2,7 @@
 ## 「WLOラズパイ倶楽部 Node-REDでIoTにチャレンジ」
 
 ## Peatix イベント申し込みページ
-未開設<br>
+http://peatix.com/event/286006 <br>
 
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に興味ある有志の集まりです。 
