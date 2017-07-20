@@ -51,9 +51,26 @@ Raspberry Piをヘッドレス(HDMIディスプレイなし)でお使いいた�
 その場合は、お持込になるRaspberry PiのMACアドレス(eth0/wlan0)を事前にご確認ください。<br>
  ``` $ ip link show eth0 ```
  ``` $ ip link show wlan0 ```
+ 
+### PCだけお持込になる場合
+クラウド上のNode-RED環境を当日お貸し出しします。<br>
+WonderLABOsakaのFreeWiFiに接続しますので社用PCをお持込の場合はセキュリティルールに適合しているものをご準備ください。
 
 ### 見学のみ
-可能です
+可能です。
+
+## Raspberry Piの事前準備
+前回のWLOラズパイ倶楽部で「初心者パック」を購入した方はそのままお持込ください。<br>
+ご自身のRaspberry Piをお持込の場合は、前回のテキスト https://github.com/WLO-RaspiClub/20170713_LetsStartRaspi を参考に、フォントの導入と
+パッケージの更新をすませて参加ください。<br>
+（当日倶楽部が始まってからパッケージの更新をすると、更新の時間がかかりすぎて参加できないです）<br>
+
+これからOSを導入されるかたは、「Raspbian Jessie with desktop」
+https://www.raspberrypi.org/downloads/raspbian/
+2017-07-05版<br>
+をオススメします。<br>
+https://github.com/WLO-RaspiClub/20170608_MyFirstInstall/blob/master/FAQ.md#microsdを作成するときに必要なもの
+などを参考に各自ご準備ください。
 
 ## 定員
 HDMIディスプレイ 8名程度（先着順）
